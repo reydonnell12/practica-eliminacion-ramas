@@ -1,1 +1,2 @@
-print('Tercer commit compita')
+print('Vamos con toda')
+console.log('Estoy muy motivado')
